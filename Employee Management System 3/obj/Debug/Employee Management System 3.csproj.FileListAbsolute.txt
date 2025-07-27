@@ -1,0 +1,26 @@
+C:\Users\T450s\Desktop\Certificate In Software Engineering (CSE24.2FMT)\FINAL PROJECT\Employee Management System 3\Employee Management System 3\bin\Debug\Employee Management System 3.exe.config
+C:\Users\T450s\Desktop\Certificate In Software Engineering (CSE24.2FMT)\FINAL PROJECT\Employee Management System 3\Employee Management System 3\bin\Debug\Employee Management System 3.exe
+C:\Users\T450s\Desktop\Certificate In Software Engineering (CSE24.2FMT)\FINAL PROJECT\Employee Management System 3\Employee Management System 3\bin\Debug\Employee Management System 3.pdb
+C:\Users\T450s\Desktop\Certificate In Software Engineering (CSE24.2FMT)\FINAL PROJECT\Employee Management System 3\Employee Management System 3\obj\Debug\Employee Management System 3.csproj.AssemblyReference.cache
+C:\Users\T450s\Desktop\Certificate In Software Engineering (CSE24.2FMT)\FINAL PROJECT\Employee Management System 3\Employee Management System 3\obj\Debug\Employee_Management_System_3.Form1.resources
+C:\Users\T450s\Desktop\Certificate In Software Engineering (CSE24.2FMT)\FINAL PROJECT\Employee Management System 3\Employee Management System 3\obj\Debug\Employee_Management_System_3.Home.resources
+C:\Users\T450s\Desktop\Certificate In Software Engineering (CSE24.2FMT)\FINAL PROJECT\Employee Management System 3\Employee Management System 3\obj\Debug\Employee_Management_System_3.Properties.Resources.resources
+C:\Users\T450s\Desktop\Certificate In Software Engineering (CSE24.2FMT)\FINAL PROJECT\Employee Management System 3\Employee Management System 3\obj\Debug\Employee Management System 3.csproj.GenerateResource.cache
+C:\Users\T450s\Desktop\Certificate In Software Engineering (CSE24.2FMT)\FINAL PROJECT\Employee Management System 3\Employee Management System 3\obj\Debug\Employee Management System 3.csproj.CoreCompileInputs.cache
+C:\Users\T450s\Desktop\Certificate In Software Engineering (CSE24.2FMT)\FINAL PROJECT\Employee Management System 3\Employee Management System 3\obj\Debug\Employee Management System 3.exe
+C:\Users\T450s\Desktop\Certificate In Software Engineering (CSE24.2FMT)\FINAL PROJECT\Employee Management System 3\Employee Management System 3\obj\Debug\Employee Management System 3.pdb
+C:\Users\T450s\Desktop\Certificate In Software Engineering (CSE24.2FMT)\FINAL PROJECT\Employee Management System 3\Employee Management System 3\obj\Debug\Employee_Management_System_3.Employee.resources
+C:\Users\T450s\Desktop\Certificate In Software Engineering (CSE24.2FMT)\FINAL PROJECT\Employee Management System 3\Employee Management System 3\obj\Debug\Employee_Management_System_3.Dashboard.resources
+C:\Users\T450s\Desktop\Employee Management System 3\Employee Management System 3\bin\Debug\Employee Management System 3.exe.config
+C:\Users\T450s\Desktop\Employee Management System 3\Employee Management System 3\bin\Debug\Employee Management System 3.exe
+C:\Users\T450s\Desktop\Employee Management System 3\Employee Management System 3\bin\Debug\Employee Management System 3.pdb
+C:\Users\T450s\Desktop\Employee Management System 3\Employee Management System 3\obj\Debug\Employee Management System 3.csproj.AssemblyReference.cache
+C:\Users\T450s\Desktop\Employee Management System 3\Employee Management System 3\obj\Debug\Employee_Management_System_3.Dashboard.resources
+C:\Users\T450s\Desktop\Employee Management System 3\Employee Management System 3\obj\Debug\Employee_Management_System_3.Employee.resources
+C:\Users\T450s\Desktop\Employee Management System 3\Employee Management System 3\obj\Debug\Employee_Management_System_3.Form1.resources
+C:\Users\T450s\Desktop\Employee Management System 3\Employee Management System 3\obj\Debug\Employee_Management_System_3.Home.resources
+C:\Users\T450s\Desktop\Employee Management System 3\Employee Management System 3\obj\Debug\Employee_Management_System_3.Properties.Resources.resources
+C:\Users\T450s\Desktop\Employee Management System 3\Employee Management System 3\obj\Debug\Employee Management System 3.csproj.GenerateResource.cache
+C:\Users\T450s\Desktop\Employee Management System 3\Employee Management System 3\obj\Debug\Employee Management System 3.csproj.CoreCompileInputs.cache
+C:\Users\T450s\Desktop\Employee Management System 3\Employee Management System 3\obj\Debug\Employee Management System 3.exe
+C:\Users\T450s\Desktop\Employee Management System 3\Employee Management System 3\obj\Debug\Employee Management System 3.pdb
